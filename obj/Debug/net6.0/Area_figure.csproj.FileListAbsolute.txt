@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\project\Area_figure\bin\Debug\net6.0\Area_figure.deps.json
+C:\Users\User\Desktop\project\Area_figure\bin\Debug\net6.0\Area_figure.dll
+C:\Users\User\Desktop\project\Area_figure\bin\Debug\net6.0\Area_figure.pdb
+C:\Users\User\Desktop\project\Area_figure\obj\Debug\net6.0\Area_figure.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\project\Area_figure\obj\Debug\net6.0\Area_figure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\project\Area_figure\obj\Debug\net6.0\Area_figure.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\project\Area_figure\obj\Debug\net6.0\Area_figure.AssemblyInfo.cs
+C:\Users\User\Desktop\project\Area_figure\obj\Debug\net6.0\Area_figure.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\project\Area_figure\obj\Debug\net6.0\Area_figure.dll
+C:\Users\User\Desktop\project\Area_figure\obj\Debug\net6.0\refint\Area_figure.dll
+C:\Users\User\Desktop\project\Area_figure\obj\Debug\net6.0\Area_figure.pdb
+C:\Users\User\Desktop\project\Area_figure\obj\Debug\net6.0\ref\Area_figure.dll
